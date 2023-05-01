@@ -1,0 +1,42 @@
+export enum IDEALFOR{
+    MAN=0,
+    WOMEN,
+    BOYS,
+    GIRLS,
+    CHILDRENS,
+    SENIORCITIZIONS,
+}
+
+export enum PRODUCTCATEGORY{
+    MANS_BEAUTY=0,
+    WOMENS_BEAUTY=1,
+    MANS_CLOTHS,
+    WOMENS_CLOTHS,
+}
+
+export enum USER_ROLES{
+    DEFAULT=0,
+    EMOPLOYEE,
+    ADMIN,
+    SUPER_ADMIN,
+}
+
+export enum ORDER_STATUS{
+    PLACED=0,
+    SHIPED,
+    OUT_OF_DELEVERY,
+    COMPLETED,
+    RETURNED
+}
+
+
+export enum SUBSCRIPTION_TYPE {
+    BASIC=0,
+    STANDERED=1,
+}
+
+export enum SHIFT {
+    MORNING=0,
+    AFTERNOON=1,
+    NIGHT=2,
+}

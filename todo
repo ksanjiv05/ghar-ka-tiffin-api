@@ -1,0 +1,99 @@
+pid
+title
+pimg
+pvid    
+price
+off
+category
+color
+shade
+discp
+
+brand
+productModel
+quantity
+idealfor men/women
+selflife
+returnable
+
+
+
+reviews
+rid
+pid
+rate
+comment
+img
+username
+isVerified
+
+
+
+productManufacture
+compney
+address
+country
+
+
+wishlist
+uid
+pidArray
+
+cart 
+uid
+pidArray
+
+order
+oid
+uid
+pid
+orderPlaced
+expected delivery
+status
+statusDescp
+
+
+address
+
+
+PRODUCTIMAGES
+imgA-f
+
+
+===================
+
+/order
+
+uid
+timeingArray
+subscription period
+paybale amount
+discount
+total amount
+recived amount
+date
+
+recipet link
+
+
+//payment
+oid
+payment id
+amount
+transaction id
+date
+
+/subscription
+uid
+oid
+period
+canceled dates
+
+feedback
+help
+concern
+name
+email
+phone
+description
+
